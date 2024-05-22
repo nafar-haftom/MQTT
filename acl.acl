@@ -1,0 +1,11 @@
+user mammad
+topic readwrite employee1room
+topic readwrite publicroom
+
+user mammad2
+topic readwrite employee2room
+topic readwrite publicroom
+
+user mammad3
+topic readwrite employee3room
+topic readwrite publicroom
